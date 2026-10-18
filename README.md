@@ -27,7 +27,7 @@ their dependencies rather than seeking them.
 ## Installation
 
 ```bash
-git clone https://github.com/sagelabs-dev/wren-dojo.git
+git clone https://github.com/retiform-labs/wren-dojo.git
 cd wren-dojo
 ```
 
@@ -352,4 +352,4 @@ If wren-dojo is useful to you, consider supporting its continued development:
 
 ---
 
-Crafted with ❤️ by [Sage Labs](https://sagelabs.dev)
+Crafted with ❤️ by [Retiform Labs](https://retiform.dev)
